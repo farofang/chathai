@@ -9,3 +9,5 @@ Customers will submit each individual word from Harry Potter text file to the sy
 
 ![messageImage_1631280902593](https://user-images.githubusercontent.com/16721067/132863735-0b58e2c1-cdf4-4a63-9286-35b40e25b47d.jpg)
 
+# Pyspark - Consumer
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farofang/chathai/blob/wordcount/quiz1/wordcount/quiz1-wordcount.ipynb)
