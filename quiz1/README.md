@@ -9,9 +9,11 @@ Customers will submit each individual word from Harry Potter text file to the sy
 
 
 
-![real time hw 1](https://user-images.githubusercontent.com/16721067/134757251-f8494461-46b2-45a4-8f6a-06a27d5e64c3.PNG)
+![real time hw](https://user-images.githubusercontent.com/90056696/134757326-df4eac7e-38cc-4679-83b6-ad18af5e0f2b.png)
+
 
 
 2.) Tf - idf
 
-![real time hw2](https://user-images.githubusercontent.com/31241949/134756908-4bdd387e-b9a3-4f6c-b892-5e8d3b99de63.png)
+![real time hw2](https://user-images.githubusercontent.com/90056696/134757335-319fb904-89bb-4a50-b7e2-c589f83175c5.png)
+
