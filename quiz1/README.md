@@ -14,6 +14,3 @@ Customers will submit each individual word from Harry Potter text file to the sy
 2.) Tf - idf
 
 ![real time hw2](https://user-images.githubusercontent.com/31241949/134756908-4bdd387e-b9a3-4f6c-b892-5e8d3b99de63.png)
-
-# Pyspark - Consumer
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farofang/chathai/blob/wordcount/quiz1/wordcount/quiz1-wordcount.ipynb)
