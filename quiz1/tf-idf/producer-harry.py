@@ -4,7 +4,7 @@ from kafka import KafkaProducer
 import re
 
 # producer - aws
-producer = KafkaProducer(bootstrap_servers=['ec2-13-229-46-113.ap-southeast-1.compute.amazonaws.com:9092'],
+producer = KafkaProducer(bootstrap_servers=['bootstrap-server:9092'],
                          value_serializer=lambda x:
                          dumps(x).encode('utf-8'))
 
